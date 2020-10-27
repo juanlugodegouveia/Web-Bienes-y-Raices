@@ -1,10 +1,10 @@
-# Diseño Front End - Bienes y Raices.
+# Front End Design - Real Estate.
 
-Plantilla para desarrollo Front-End orientando al mercado de los bienes y raíces
+Template for Front-End development oriented to the real estate market
 
-La plantilla no es totalmente responsiva, deben aplicarse mediaqueries.
+The template is not fully responsive, mediaqueries must be applied.
 
-Vista Previa: https://juanlugodegouveia.github.io/Web-Bienes-y-Raices/
+Preview: https://juanlugodegouveia.github.io/Web-Bienes-y-Raices/
 
 ## Copyright
 
